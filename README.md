@@ -1,4 +1,4 @@
-# andrew_test
+# andrew_test by Andrew
 test repository to learn git/github
 
 ## purpose
