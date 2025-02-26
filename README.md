@@ -1,5 +1,6 @@
-# andrew_test by Andrew
-test repository to learn git/github
+# andrew_test by Andrew and Deniz
+
+
 
 ## purpose
 
